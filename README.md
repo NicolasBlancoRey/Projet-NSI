@@ -9,7 +9,7 @@ pour faire simple il s'agira d'assigner une valeur en Hz à une touche du clavie
   *  Etape 1 : 
      * Faire des recherches internet pour trouver des disctionnaires et des outils utiles.
   *  Etape 2 :
-     * Aller sur un IDE puis commencer à faire quelques tests. (Chercher Au prealable les keybinds des touches du clavier
+     * Aller sur un IDE puis commencer à faire quelques tests. (Chercher Au prealable les keybinds des touches du clavier)
   *  Etape 3 :
      * Faire des tests et pauffiner la gamme des notes de musique
   *  Etape 4 :
