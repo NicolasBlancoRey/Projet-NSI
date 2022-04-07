@@ -17,3 +17,15 @@ pour faire simple il s'agira d'assigner une valeur en Hz à une touche du clavie
      demander à l'utilisateur de faire une mélodie de ??? intitulé ??? par exemple avec un système de score lorsque l'utilisateur réussi sa mélodie ...
   * Etape 5 : 
      * Améliorer le programme pour l'optimiser, chercher les erreurs possibles que pourrait créer l'utilisateur et les patchers, et ajouter des améliorations/idées ajoutable.
+
+#MVP et Liste de fonctions:
+
+
+* MVP
+  * Créer un programme en python qui va attribuer des fréquences à certaines touches pour ensuite les émettres grâce au périphérique de sortie du son
+   
+* Liste de fonctions
+  * Fonction avec les outils utils trouvés et une autre avec des dictionnaires
+  * Fonction qui appel une fréquence
+  * Fonction qui attribue une tâche à une touche
+  * Fonction qui peut modeler une fréquence
