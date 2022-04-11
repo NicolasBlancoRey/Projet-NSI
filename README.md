@@ -18,14 +18,19 @@ pour faire simple il s'agira d'assigner une valeur en Hz à une touche du clavie
   * Etape 5 : 
      * Améliorer le programme pour l'optimiser, chercher les erreurs possibles que pourrait créer l'utilisateur et les patchers, et ajouter des améliorations/idées ajoutable.
 
-#MVP et Liste de fonctions:
 
-
-* MVP
+# MVP
   * Créer un programme en python qui va attribuer des fréquences à certaines touches pour ensuite les émettres grâce au périphérique de sortie du son
    
-* Liste de fonctions
+# Liste de fonctions
   * Fonction avec les outils utils trouvés et une autre avec des dictionnaires
   * Fonction qui appel une fréquence
   * Fonction qui attribue une tâche à une touche
   * Fonction qui peut modeler une fréquence
+# Journal de progression
+  * Jour 1
+    * Sites utiles:
+      * https://python-sounddevice.readthedocs.io/en/0.4.4/
+      * https://lecompositeur.com/theorie/frequence-des-notes-en-hertz
+    *
+
