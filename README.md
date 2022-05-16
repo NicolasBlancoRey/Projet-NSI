@@ -30,6 +30,9 @@ pour faire simple il s'agira d'assigner une valeur en Hz à une touche du clavie
 # Journal de progression
   * Jour 1
     * Sites utiles après des recherches:
+    * https://www.youtube.com/watch?v=ITk2QMjCMao
+    * https://www.youtube.com/watch?v=InGrKBRRCUc
+    * 
   * Jour 2: Premier tests de codage et premier problèmes
   * Jour 3: Realisation du code minimal sans interface + debugage d'un bug d'activation du son
   * Jour 4: Nouvelle recherche pour les fichiers sons + type de son pour piano
