@@ -29,8 +29,10 @@ pour faire simple il s'agira d'assigner une valeur en Hz à une touche du clavie
   * Fonction qui peut modeler une fréquence
 # Journal de progression
   * Jour 1
-    * Sites utiles:
-      * https://python-sounddevice.readthedocs.io/en/0.4.4/
-      * https://lecompositeur.com/theorie/frequence-des-notes-en-hertz
-    *
+    * Sites utiles après des recherches:
+  * Jour 2: Premier tests de codage et premier problèmes
+  * Jour 3: Realisation du code minimal sans interface + debugage d'un bug d'activation du son
+  * Jour 4: Nouvelle recherche pour les fichiers sons + type de son pour piano
+  * Jour 5: test de la MVP + recherche d'une interface graphique 
+  * Jour 6 : combinaison des codes + fichiers audio note
 
